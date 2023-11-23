@@ -20,7 +20,7 @@ A beepy case with a cooling fin and a metal stand
 
 ## Instructions
 
-![image-20231123213313314](./image-20231123213313314.png)
+![image-20231123213313314](./assets/image-20231123213313314.png)
 
 ![image-20231123214009617](./assets/image-20231123214009617.png)
 
